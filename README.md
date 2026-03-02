@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash Prasad</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-admane&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash9089" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash9089&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash9089" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilash9089" alt="abhilash9089" /></a> </p>
 
